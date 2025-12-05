@@ -11,7 +11,4 @@ This project analyzes long-term drift in PurpleAir PM2.5 sensors and develops a 
 - Produce an open-source correction formula and validation results.
 
 ## Repository Structure
-/data              → raw PurpleAir + EPA datasets (or placeholders)
-/notebooks         → weekly Jupyter notebooks
-/sketches          → pipeline diagrams and design notes
-/scripts           → final analysis scripts
+
