@@ -1,0 +1,1 @@
+This folder contains all paper sketches, diagrams, and experimental pipeline drafts.
